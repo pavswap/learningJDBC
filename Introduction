@@ -1,0 +1,7 @@
+*JDBC* is the a API which is used to connect Relational Databases to java.
+
+Program Flow for each JDBC program :
+1. Load JDBC Driver
+2. Make Connection with Database
+3. Create Statement
+4. Execute Query
